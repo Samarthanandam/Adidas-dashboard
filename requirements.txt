@@ -5,3 +5,4 @@ plotly
 pillow
 os
 warnings
+python 3.7
